@@ -14,14 +14,9 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+Embark on a captivating exploration through the diverse landscapes of adolescence with our collection of stories. Each tale offers a unique glimpse into the lives of teenagers navigating the rollercoaster ride of youth. From the poignant to the humorous, these stories capture the essence of the teenage experience in all its complexity and beauty. Join us as we journey through the highs and lows of teenagehood, celebrating the triumphs, overcoming the challenges, and discovering the transformative power of self-discovery.
+- a Collection of memories
+  
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
