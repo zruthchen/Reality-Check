@@ -18,7 +18,7 @@ Embark on a captivating exploration through the diverse landscapes of adolescenc
 - a collection of memories
 - explore places
 
- {% include feature/image.html objectid="coll004" width=300 %} 
+
  
 ## Acknowledgement 
 
