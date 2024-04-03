@@ -26,4 +26,4 @@ During those formative years, I grappled with the complexities of self-discovery
 
 I acknowledge my teenage journey with humility and gratitude, recognizing the growth, resilience, and authenticity that have emerged from the rollercoaster ride of adolescence. And as I embark on the next chapter of my life, I carry with me the lessons learned and the memories cherished, ready to face whatever challenges and adventures lie ahead.
 
-
+{% include feature/image.html objectid="coll004" width=300 %}
