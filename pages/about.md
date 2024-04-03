@@ -17,7 +17,9 @@ credits: true
 Embark on a captivating exploration through the diverse landscapes of adolescence with my collection of stories. Each tale offers a unique glimpse into the lives of my teenage navigating the rollercoaster ride of youth. From the poignant to the humorous, these stories capture the essence of the teenage experience in all its complexity and beauty. Join my journey through the highs and lows of teenagehood, celebrating the triumphs, overcoming the challenges, and discovering the transformative power of self-discovery.
 - a collection of memories
 - explore places
-   
+
+ {% include feature/image.html objectid="coll004" width=300 %} 
+ 
 ## Acknowledgement 
 
 As I reflect on my teenage years, I am filled with a myriad of emotions and memories that have shaped me into the person I am today. My journey through adolescence was marked by moments of exhilaration, confusion, and growth, each contributing to my development in profound ways.
