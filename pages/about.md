@@ -18,6 +18,9 @@ Embark on a captivating exploration through the diverse landscapes of adolescenc
 - a collection of memories
 - explore places
    
+## Acknowledgement 
+
+The teenage years mark a profound journey of self-discovery, growth, and exploration. It's a time filled with ups and downs, challenges, and triumphs, as adolescents navigate the complexities of identity, relationships, and the world around them. 
 
 
 
